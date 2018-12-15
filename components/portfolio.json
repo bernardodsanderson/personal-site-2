@@ -1,0 +1,62 @@
+[
+  {
+    "name": "INFORUM News",
+    "description": "Currently work as a lead developer on a new atomic designed (atomicdesign.bradfrost.com) site using graphql, twig/php templates, and sass for the front end.",
+    "link": "https://inforum.com",
+    "image": "../assets/images/inforum.jpg"
+  },
+  {
+    "name": "MUBI World",
+    "description": "A React app that uses Firebase for the database and back end. Mubi World compiles together the movies showing on mubi.com from many different countries for easy viewing.",
+    "link": "https://mubi.world/",
+    "image": "../assets/images/mubi-world.jpg",
+    "repo": "https://gitlab.com/bernardodsanderson/mubi-world"
+  },
+  {
+    "name": "Material Markdown Chrome App",
+    "description": "A markdown Chrome app I made from scratch to learn the Chrome API. Made with pure JavaScript, HTML and CSS.",
+    "link": "https://chrome.google.com/webstore/detail/material-markdown/cdneggiaafcmelgcaiihmhiagieomgfj",
+    "image": "../assets/images/material-markdown.jpg",
+    "repo": "https://gitlab.com/bernardodsanderson/material-markdown"
+  },
+  {
+    "name": "ASCII Emoticons Chrome App",
+    "description": "A simple and easy app to copy ASCII emoticons. Fun to browse and easy to search through it. Made with pure JavaScript, HTML and CSS.",
+    "link": "https://chrome.google.com/webstore/detail/ascii-emoticons/kphbkkcaphjaaohboebedkmkkjfebnhe",
+    "image": "../assets/images/ascii-emoticons.jpg",
+    "repo": "https://gitlab.com/bernardodsanderson/ascii-emoticons"
+  },
+  {
+    "name": "Matbus Rocks",
+    "description": "A React app using a third party API for live bus tracking of our local bus system.",
+    "link": "http://matbus.rocks/",
+    "image": "https://uploads.codesandbox.io/uploads/user/1f761fe0-f7fe-4690-89e7-178743282f39/8P3A-matbus-rocks.png",
+    "repo": "https://gitlab.com/bernardodsanderson/matbus-rocks"
+  },
+  {
+    "name": "Material Neutron Chrome App",
+    "description": "A full text editor Chrome app made with Angular, JavaScript, HTML and CSS. Originally forked from Super Neutron code editor. I then updated the editor engine (Ace Editor), gave it a whole new look, made it faster and better!",
+    "link": "https://chrome.google.com/webstore/detail/material-neutron/dnpfikbaljjobebldaaloaaijfcgofbk",
+    "image": "../assets/images/material-neutron.jpg",
+    "repo": "https://gitlab.com/bernardodsanderson/material-neutron"
+  },
+  {
+    "name": "Telegram Bots",
+    "description": "I've built a couple of Telegram chat bots using the Telegraf node.js framework for their API. One being a bot that will give you a random cat picture when asked, the other being a weather bot that gives you the current weather and the forecast according to your location.",
+    "repo": "https://github.com/bernardodsanderson/weather-bot",
+    "image": "../assets/images/telegram.jpg"
+  },
+  {
+    "name": "Visual Studio Code - Material Neutral Theme",
+    "description": "A syntax theme based on the popular material theme. This is based on my own personal style that works best with the my everyday code needs. Built with XML tmTheme file and has over 25,000 installs.",
+    "link": "https://marketplace.visualstudio.com/items?itemName=bernardodsanderson.theme-material-neutral",
+    "image": "../assets/images/vscode.jpg",
+    "repo": "https://gitlab.com/bernardodsanderson/material-neutral-theme"
+  },
+  {
+    "name": "Flexmls Web App",
+    "description": "A robust and complex web app built on Ruby on Rails, JavaScript and a custom back end language called FlexML. Flexmls is a web app for real estate agents that allows them to do everything they would need for their business.",
+    "link": "https://www.flexmls.com/",
+    "image": "../assets/images/flexmls.jpg"
+  }
+]

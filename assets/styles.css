@@ -1,0 +1,141 @@
+:root {
+  --main-color: #333;
+}
+
+body {
+  background-color: #f7f7f7;
+  font-family: "Roboto Mono", monospace;
+  font-weight: light;
+  font-size: 1.4rem;
+}
+
+h1 {
+  font-size: 8em;
+  /* font-weight: bold; */
+  /* border: 1px solid red; */
+  /* text-shadow: 2px 2px 1px rgba(49, 146, 152, 0.4),
+    4px 4px 1px rgba(49, 146, 152, 0.2); */
+  margin-top: 100px;
+  font-family: "East Sea Dokdo";
+  color: #333;
+  line-height: 1;
+}
+
+#main-header {
+  color: inherit;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+/* Extending The Inheritances */
+
+/* Custom color */
+button,
+.button {
+  border-color: var(--main-color);
+  background-color: var(--main-color);
+  font-weight: 400;
+}
+
+a,
+.button.button-outline,
+button.button-outline {
+  color: var(--main-color);
+}
+
+pre {
+  border-left-color: var(--main-color);
+}
+
+/* Custom Styles */
+#portfolio > div {
+  border-top: 1px solid var(--main-color);
+  border-left: 1px solid var(--main-color);
+  padding: 20px;
+  padding-left: 10px;
+  margin-bottom: 40px;
+}
+
+#portfolio > div > p {
+  margin-top: 10px;
+}
+
+#portfolio img {
+  /* width: 15em; */
+  float: left;
+  border: 1px solid var(--main-color);
+}
+
+.copyright {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.copyright hr {
+  border-color: #606c76;
+  opacity: 0.2;
+}
+
+.social {
+  margin-bottom: 20px;
+  opacity: 0.5;
+}
+
+.web-developer {
+  font-weight: 400;
+  font-size: 11px;
+  /* text-transform: uppercase; */
+  margin-bottom: 150px;
+  color: #a5a5a5;
+}
+
+.web-developer i {
+  font-weight: light;
+  opacity: 0.7;
+}
+
+.blink-text {
+  animation: 2s blinker linear infinite;
+  -webkit-animation: 2s blinker linear infinite;
+  -moz-animation: 2s blinker linear infinite;
+  background-color: #ccc;
+  width: 7px;
+  height: 17px;
+  display: inline-block;
+  margin-bottom: -4px;
+  margin-left: 5px;
+}
+
+.tooltip {
+  display: inline;
+  position: relative;
+}
+
+.tooltip:hover:after {
+  background: #333;
+  background: rgba(0,0,0,1);
+  bottom: 36px;
+  color: #fff;
+  content: attr(title);
+  left: 20%;
+  padding: 5px 15px;
+  position: absolute;
+  z-index: 98;
+  width: 210px;
+  border-radius: 2px;
+}
+
+/* Smaller than mobile screen */
+@media (max-width: 40rem) {
+  .social .row {
+    flex-direction: row;
+    margin-left: 0;
+    width: calc(100% + 2rem);
+  }
+  #portfolio img {
+    display: none;
+  }
+}
