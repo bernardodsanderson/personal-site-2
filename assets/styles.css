@@ -130,6 +130,9 @@ pre {
 
 /* Smaller than mobile screen */
 @media (max-width: 40rem) {
+  h1 {
+    font-size: 8rem;
+  }
   .social .row {
     flex-direction: row;
     margin-left: 0;
