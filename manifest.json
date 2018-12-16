@@ -1,7 +1,7 @@
 {
-  "name": "choo-starter-app",
-  "short_name": "choo-starter",
-  "description": "Personal Site",
+  "name": "Bernardo Anderson",
+  "short_name": "bdsa.xyz",
+  "description": "Bernardo Anderson's Site",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000",
