@@ -1,5 +1,5 @@
-# create-choo-app template
-A template to start you own Choo app!
+# Personal Site
+This was made using Choo JS.
 
 [![Edit create-choo-app](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/0mpm3jmxo0)
 
