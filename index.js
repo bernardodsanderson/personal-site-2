@@ -16,10 +16,8 @@ var choo = require("choo");
 
 var app = choo();
 if (process.env.NODE_ENV !== "production") {
-  console.log("Not Production");
   app.use(require("choo-devtools")());
 } else {
-  console.log("Production");
   app.use(require("choo-service-worker")());
 }
 
