@@ -12,3 +12,4 @@ public/*/*
 public/manifest.json
 !public/now.json
 !public/dat.json
+!public/.well-known/*
