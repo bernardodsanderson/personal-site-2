@@ -1,0 +1,6 @@
+{
+  "title": "Bernardo Anderson",
+  "description": "Personal site of Bernardo Anderson",
+  "type": ["website"],
+  "fallback_page": "/index.html"
+}

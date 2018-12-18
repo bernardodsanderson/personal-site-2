@@ -1,3 +1,14 @@
 .DS_STORE
 node_modules
 dist
+public/*.html
+public/*.js
+public/*.*.gz
+public/*.*.br
+public/*.*.deflate
+public/assets
+public/public
+public/*/*
+public/manifest.json
+!public/now.json
+!public/dat.json

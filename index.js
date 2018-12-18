@@ -1,5 +1,9 @@
 require("@fortawesome/fontawesome-free/js/all.js");
 
+// require('./dat.json');
+// console.log(dat);
+// document.head.append(dat);
+
 const WebFont = require("./assets/webfont.js");
 
 WebFont.load({

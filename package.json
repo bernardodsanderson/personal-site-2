@@ -4,7 +4,7 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "build": "bankai build index.js",
+    "build": "bankai build index.js public/",
     "create": "choo-scaffold",
     "inspect": "bankai inspect index.js",
     "start": "bankai start index.js",
