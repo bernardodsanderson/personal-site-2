@@ -18,7 +18,7 @@ function header(state, emit) {
             </a>
           </div>
           <div class="column column-10">
-            <a href="./assets/anderson-resume.pdf" target="_blank" title="Resume" class="tooltip" rel="noopener noreferrer">
+            <a href="./assets/anderson-resume.pdf" target="_blank" title="Resume" class="tooltip" rel="noopener noreferrer" download="anderson-resume.pdf">
               <i class="far fa-file-alt"></i>
             </a>
           </div>
