@@ -4,7 +4,7 @@
 
 body {
   background-color: #f7f7f7;
-  font-family: "Roboto Mono", monospace;
+  font-family: "Source Code Pro", monospace;
   font-weight: light;
   font-size: 1.4rem;
 }
@@ -16,7 +16,7 @@ h1 {
   /* text-shadow: 2px 2px 1px rgba(49, 146, 152, 0.4),
     4px 4px 1px rgba(49, 146, 152, 0.2); */
   margin-top: 100px;
-  font-family: "East Sea Dokdo";
+  font-family: "Major Mono Display";
   color: #333;
   line-height: 1;
 }
@@ -128,10 +128,18 @@ pre {
   border-radius: 2px;
 }
 
+.beaker {
+  text-align: center;
+}
+
+.beaker > div {
+  margin-bottom: 5px;
+}
+
 /* Smaller than mobile screen */
 @media (max-width: 40rem) {
   h1 {
-    font-size: 8rem;
+    font-size: 6rem;
   }
   .social .row {
     flex-direction: row;

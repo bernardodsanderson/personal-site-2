@@ -4,7 +4,7 @@ const WebFont = require("./assets/webfont.js");
 
 WebFont.load({
   google: {
-    families: ['Roboto Mono', 'East Sea Dokdo']
+    families: ['Major Mono Display', 'Source Code Pro']
   }
 });
 
