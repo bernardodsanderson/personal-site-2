@@ -1,5 +1,12 @@
 [
   {
+    "name": "VIDO Desktop App",
+    "description": "A simple GTK+3 desktop app using Vala and Meson build system. Built for the Elementary OS linux desktop.",
+    "link": "https://appcenter.elementary.io/com.github.bernardodsanderson.vido/",
+    "image": "../assets/images/vido.jpg",
+    "repo": "https://github.com/bernardodsanderson/vido"
+  },
+  {
     "name": "INFORUM News",
     "description": "Currently work as a lead developer on a new atomic designed (atomicdesign.bradfrost.com) site using graphql, twig/php templates, and sass for the front end.",
     "link": "https://inforum.com",
