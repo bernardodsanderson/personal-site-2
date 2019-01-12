@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bdsa.xyz 
+Token: 5cc9318942bcf797145b1a8a4bf61f476277b749aed18a1452a65b68c52275ea
