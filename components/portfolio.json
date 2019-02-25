@@ -13,6 +13,12 @@
     "image": "../assets/images/inforum.jpg"
   },
   {
+    "name": "Swipe Press",
+    "description": "A Vue.js PWA app that shows you the latest news from inforum.com and has an touch interface similar to a smartphone email app. You can swipe one way to delete a story or the other to save it. Unfortunately the API endpoint has since been taken down so the link won't pull up any stories.",
+    "repo": "https://gitlab.com/bernardodsanderson/swipe-press",
+    "image": "../assets/images/swipe-press.png"
+  },
+  {
     "name": "MUBI World",
     "description": "A React app that uses Firebase for the database and back end. Mubi World compiles together the movies showing on mubi.com from many different countries for easy viewing.",
     "link": "https://mubi.world/",
