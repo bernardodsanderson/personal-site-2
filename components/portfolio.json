@@ -21,7 +21,7 @@
   {
     "name": "MUBI World",
     "description": "A React app that uses Firebase for the database and back end. Mubi World compiles together the movies showing on mubi.com from many different countries for easy viewing.",
-    "link": "https://mubi.world/",
+    "link": "https://mubi.bdsa.xyz/",
     "image": "../assets/images/mubi-world.jpg",
     "repo": "https://gitlab.com/bernardodsanderson/mubi-world"
   },
