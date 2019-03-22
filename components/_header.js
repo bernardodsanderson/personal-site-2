@@ -50,7 +50,7 @@ function header(state, emit) {
             </a>
           </div>
           <div class="column column-10">
-            <a href="mailto:bernardo@anderson.plus" title="bernardo@anderson.plus" target="_blank" class="tooltip">
+            <a href="mailto:bernardo@bdsa.xyz" title="bernardo@bdsa.xyz" target="_blank" class="tooltip">
               <i class="fas fa-envelope"></i>
             </a>
           </div>
