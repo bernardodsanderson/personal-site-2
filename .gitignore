@@ -1,6 +1,7 @@
 .DS_STORE
 node_modules
 dist
+package-lock.json
 public/*.html
 public/*.js
 public/*.*.gz
